@@ -212,7 +212,7 @@ class ScenarioManager:
     @staticmethod
     def set_weather(weather_settings):
         """
-        Set CARLA weather params.
+        Set CARLA weather paramsa.
 
         Parameters
         ----------
