@@ -4,7 +4,7 @@ mkdocs == 1.1
 networkx==2.5.1
 numpy
 open3d
-opencv-python==4.5.2.52
+opencv-python==4.8.1.78
 pandas
 pillow
 pygame
