@@ -35,7 +35,7 @@ open3d==0.19.0
 # Computer Vision & 3D Data
 opencv-python==4.11.0.86
 pandas==2.3.3
-Pillow==11.3.0
+Pillow==12.1.1
 
 # Protobuf & Code Generation
 protobuf==6.33.5
